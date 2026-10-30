@@ -51,8 +51,6 @@ Debe existir al menos una ruta anidada, en la que el recurso hijo se identifique
 
 La entrega se realiza como repositorio individual, con historial de commits que refleje el proceso de trabajo. El README debe permitir levantar el proyecto desde cero, indicar las variables de entorno necesarias y describir los endpoints disponibles, los parámetros que aceptan y los códigos de respuesta esperados.
 
-Debe incluirse una colección de pruebas que cubra al menos los casos felices, los filtros combinados, las validaciones de entrada y los errores de negocio. Las pruebas no deben requerir una base de datos real para ejecutarse.
-
 No se aceptarán entregas que dependan de datos cargados manualmente desde la interfaz de administración del motor, ni que incluyan credenciales reales en el repositorio.
 
 ## Criterios de evaluación
