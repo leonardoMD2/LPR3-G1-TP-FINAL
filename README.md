@@ -4,9 +4,9 @@
 
 ## Objetivo
 
-El trabajo consiste en desarrollar una API REST con FastAPI sobre una base de datos PostgreSQL,en supabase, para gestionar un catálogo de películas, sus géneros y las reseñas que los usuarios escriben sobre ellas.
+El trabajo consiste en desarrollar una API REST + Frontend en JS con FastAPI sobre una base de datos PostgreSQL,en supabase, para gestionar un catálogo de películas, sus géneros y las reseñas que los usuarios escriben sobre ellas. 
 
-Lo que se va a evalúar es la organización del código, el modelado relacional de la información y la calidad de la interfaz HTTP (api), no la cantidad de funcionalidades ni la complejidad del producto. Se espera que la entrega pueda ejecutarse desde cero siguiendo las instrucciones del repositorio, sin pasos implícitos ni dependencias de configuración que no estén documentadas.
+Lo que se va a evalúar es la organización del código, el modelado relacional de la información y la calidad de la interfaz HTTP (api), no la cantidad de funcionalidades ni la complejidad del producto. Se espera que la entrega pueda ejecutarse desde cero siguiendo las instrucciones del repositorio, sin pasos implícitos ni dependencias de configuración que no estén documentadas. 
 
 El acceso a los datos puede resolverse con el driver psycopg o con el cliente oficial de Supabase, y esa decisión debe quedar aislada en un único punto del código.
 
