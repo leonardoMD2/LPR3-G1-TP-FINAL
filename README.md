@@ -59,7 +59,6 @@ No se aceptarán entregas que dependan de datos cargados manualmente desde la in
 
 Se evaluará en primer lugar la correcta aplicación de la separación en capas y el uso de interfaces, dado que es el objetivo central del trabajo. En segundo lugar se considerará el modelado relacional: claves foráneas, tabla intermedia, restricciones e integridad ante borrados y los respectivos diagramas de entidad-relación.
 
-Luego se evaluará la calidad de la interfaz HTTP, es decir, la coherencia de las rutas, la validación de parámetros, los códigos de estado y la claridad de los mensajes de error. Se espera que el alta responda con un código de creación y la baja con uno de operación exitosa sin cuerpo, que un identificador inexistente se distinga de un pedido mal formado. También se tendrá en cuenta la implementación de los filtros combinables, de la paginación con total, el correcto uso de managers e interfaces; inyección de dependencias y el resto de conceptos aplicados a lo largo del cuatrimestre.
+Luego se evaluará la calidad de la interfaz HTTP, es decir, la coherencia de las rutas, la validación de parámetros, los códigos de estado y la claridad de los mensajes de error. Se espera que el alta responda con un código de creación y la baja con uno de operación exitosa sin cuerpo, que un identificador inexistente se distinga de un pedido mal formado. También se tendrá en cuenta la implementación de los filtros combinables, de la paginación con total, el correcto uso de managers e interfaces; inyección de dependencias y el resto de conceptos aplicados a lo largo del cuatrimestre. 
 
-Finalmente se valorará la reproducibilidad de la entrega, la documentación y la cobertura de pruebas. La prolijidad del código y la justificación de las decisiones de diseño pueden mejorar la calificación, pero no compensan la ausencia de los puntos anteriores.
-
+Finalmente se realizará una breve defensa oral del proyecto.
