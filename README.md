@@ -53,6 +53,8 @@ La entrega se realiza como repositorio individual, con historial de commits que 
 
 No se aceptarán entregas que dependan de datos cargados manualmente desde la interfaz de administración del motor, ni que incluyan credenciales reales en el repositorio.
 
+Se espera una API deployada en algún servicio a elección (render, vercel, otro).
+
 ## Criterios de evaluación
 
 Se evaluará en primer lugar la correcta aplicación de la separación en capas y el uso de interfaces, dado que es el objetivo central del trabajo. En segundo lugar se considerará el modelado relacional: claves foráneas, tabla intermedia, restricciones e integridad ante borrados y los respectivos diagramas de entidad-relación.
